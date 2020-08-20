@@ -4,10 +4,12 @@ Fork from https://github.com/andrewrk/node-s3-client
 
 ## Installation
 
-`npm install @auth0/s3 --save`
+`npm i @frachuk/s3`
 
 ## Features
 
+ * This fork has patched the issue of downloadDir of ilegal operation descripted here
+   https://github.com/andrewrk/node-s3-client/issues/80
  * Automatically retry a configurable number of times when S3 returns an error.
  * Includes logic to make multiple requests when there is a 1000 object limit.
  * Ability to set a limit on the maximum parallelization of S3 requests.
