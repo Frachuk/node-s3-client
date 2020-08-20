@@ -1,6 +1,6 @@
 {
   "name": "@frachuk/s3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Amazon S3 client for upload/download files",
   "main": "lib/index.js",
   "scripts": {
