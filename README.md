@@ -1,6 +1,6 @@
 # High Level Amazon S3 Client
 
-Fork from https://github.com/andrewrk/node-s3-client
+Fork from https://github.com/auth0/node-s3-client
 
 ## Installation
 
